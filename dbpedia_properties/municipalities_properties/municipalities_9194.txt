@@ -1,0 +1,12 @@
+http://greek-lod.math.auth.gr/kalikratis/resource/municipalities/9194;Δήμος Αγίου Δημητρίου;http://el.dbpedia.org/resource/Άγιος_Δημήτριος
+http://dbpedia.org/ontology/abstract;1;0
+http://dbpedia.org/ontology/thumbnail;1;0
+http://purl.org/dc/terms/subject;1;0
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type;1;0
+http://www.w3.org/2000/01/rdf-schema#comment;1;0
+http://www.w3.org/2000/01/rdf-schema#label;1;0
+http://www.w3.org/2002/07/owl#sameAs;1;0
+http://xmlns.com/foaf/0.1/depiction;1;0
+http://xmlns.com/foaf/0.1/page;1;0
+http://dbpedia.org/ontology/wikiPageDisambiguates;0;1
+http://xmlns.com/foaf/0.1/primaryTopic;0;1

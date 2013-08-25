@@ -1,0 +1,143 @@
+http://dbpedia.org/ontology/abstract
+http://dbpedia.org/ontology/areaTotal
+http://dbpedia.org/ontology/country
+http://dbpedia.org/ontology/leaderName
+http://dbpedia.org/ontology/leaderParty
+http://dbpedia.org/ontology/leaderTitle
+http://dbpedia.org/ontology/maximumElevation
+http://dbpedia.org/ontology/part
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+http://dbpedia.org/ontology/PopulatedPlace/populationDensity
+http://dbpedia.org/ontology/populationDensity
+http://dbpedia.org/ontology/populationTotal
+http://dbpedia.org/ontology/thumbnail
+http://dbpedia.org/ontology/type
+http://dbpedia.org/ontology/wikiPageExternalLink
+http://dbpedia.org/property/areaTotalKm
+http://dbpedia.org/property/blankEmblemSize
+http://dbpedia.org/property/blankEmblemType
+http://dbpedia.org/property/blankInfoSec
+http://dbpedia.org/property/blankNameSec
+http://dbpedia.org/property/caption
+http://dbpedia.org/property/captionMap
+http://dbpedia.org/property/coordinatesDisplay
+http://dbpedia.org/property/coordinatesFormat
+http://dbpedia.org/property/dialects
+http://dbpedia.org/property/elevationMaxM
+http://dbpedia.org/property/hasPhotoCollection
+http://dbpedia.org/property/imageBlankEmblem
+http://dbpedia.org/property/imageCaption
+http://dbpedia.org/property/imageFlag
+http://dbpedia.org/property/imageMap
+http://dbpedia.org/property/imageSkyline
+http://dbpedia.org/property/isoCode
+http://dbpedia.org/property/keyPeriods
+http://dbpedia.org/property/latd
+http://dbpedia.org/property/leaderName
+http://dbpedia.org/property/leaderParty
+http://dbpedia.org/property/leaderTitle
+http://dbpedia.org/property/location
+http://dbpedia.org/property/longd
+http://dbpedia.org/property/majorCities
+http://dbpedia.org/property/mapCaption
+http://dbpedia.org/property/mapsize
+http://dbpedia.org/property/name
+http://dbpedia.org/property/namePolytonic
+http://dbpedia.org/property/nativeName
+http://dbpedia.org/property/nativeNameLang
+http://dbpedia.org/property/p
+http://dbpedia.org/property/partsStyle
+http://dbpedia.org/property/partsType
+http://dbpedia.org/property/populationAsOf
+http://dbpedia.org/property/populationDemonym
+http://dbpedia.org/property/populationDensityKm
+http://dbpedia.org/property/populationTotal
+http://dbpedia.org/property/seat
+http://dbpedia.org/property/seatType
+http://dbpedia.org/property/settlementType
+http://dbpedia.org/property/subdivisionType
+http://dbpedia.org/property/type
+http://dbpedia.org/property/website
+http://dbpedia.org/property/wikiPageUsesTemplate
+http://purl.org/dc/terms/subject
+http://www.georss.org/georss/point
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://www.w3.org/2000/01/rdf-schema#comment
+http://www.w3.org/2000/01/rdf-schema#label
+http://www.w3.org/2000/01/rdf-schema#seeAlso
+http://www.w3.org/2002/07/owl#sameAs
+http://www.w3.org/2003/01/geo/wgs84_pos#geometry
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+http://www.w3.org/ns/prov#wasDerivedFrom
+http://xmlns.com/foaf/0.1/depiction
+http://xmlns.com/foaf/0.1/homepage
+http://xmlns.com/foaf/0.1/isPrimaryTopicOf
+http://xmlns.com/foaf/0.1/name
+is http://dbpedia.org/ontology/battle of
+is http://dbpedia.org/ontology/billed of
+is http://dbpedia.org/ontology/binomialAuthority of
+is http://dbpedia.org/ontology/birthPlace of
+is http://dbpedia.org/ontology/broadcastArea of
+is http://dbpedia.org/ontology/city of
+is http://dbpedia.org/ontology/deathPlace of
+is http://dbpedia.org/ontology/garrison of
+is http://dbpedia.org/ontology/ground of
+is http://dbpedia.org/ontology/hometown of
+is http://dbpedia.org/ontology/isPartOf of
+is http://dbpedia.org/ontology/knownFor of
+is http://dbpedia.org/ontology/locatedInArea of
+is http://dbpedia.org/ontology/location of
+is http://dbpedia.org/ontology/majorShrine of
+is http://dbpedia.org/ontology/mountainRange of
+is http://dbpedia.org/ontology/occupation of
+is http://dbpedia.org/ontology/origin of
+is http://dbpedia.org/ontology/part of
+is http://dbpedia.org/ontology/picture of
+is http://dbpedia.org/ontology/place of
+is http://dbpedia.org/ontology/populationPlace of
+is http://dbpedia.org/ontology/province of
+is http://dbpedia.org/ontology/region of
+is http://dbpedia.org/ontology/residence of
+is http://dbpedia.org/ontology/restingPlace of
+is http://dbpedia.org/ontology/spokenIn of
+is http://dbpedia.org/ontology/state of
+is http://dbpedia.org/ontology/territory of
+is http://dbpedia.org/ontology/wikiPageDisambiguates of
+is http://dbpedia.org/ontology/wikiPageRedirects of
+is http://dbpedia.org/property/abode of
+is http://dbpedia.org/property/archipelago of
+is http://dbpedia.org/property/area of
+is http://dbpedia.org/property/billed of
+is http://dbpedia.org/property/birthPlace of
+is http://dbpedia.org/property/chain of
+is http://dbpedia.org/property/city of
+is http://dbpedia.org/property/cityofbirth of
+is http://dbpedia.org/property/combatant of
+is http://dbpedia.org/property/countriesAffected of
+is http://dbpedia.org/property/country of
+is http://dbpedia.org/property/deathPlace of
+is http://dbpedia.org/property/founded of
+is http://dbpedia.org/property/garrison of
+is http://dbpedia.org/property/ground of
+is http://dbpedia.org/property/locale of
+is http://dbpedia.org/property/location of
+is http://dbpedia.org/property/majorShrine of
+is http://dbpedia.org/property/origin of
+is http://dbpedia.org/property/p of
+is http://dbpedia.org/property/periph of
+is http://dbpedia.org/property/place of
+is http://dbpedia.org/property/placeOfBirth of
+is http://dbpedia.org/property/placeOfBurial of
+is http://dbpedia.org/property/placeOfDeath of
+is http://dbpedia.org/property/province of
+is http://dbpedia.org/property/range of
+is http://dbpedia.org/property/region of
+is http://dbpedia.org/property/regions of
+is http://dbpedia.org/property/residence of
+is http://dbpedia.org/property/stadium of
+is http://dbpedia.org/property/state of
+is http://dbpedia.org/property/subdivisionName of
+is http://dbpedia.org/property/title of
+is http://www.w3.org/2002/07/owl#sameAs of
+is http://xmlns.com/foaf/0.1/primaryTopic of

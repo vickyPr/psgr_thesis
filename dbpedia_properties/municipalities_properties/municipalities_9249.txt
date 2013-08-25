@@ -1,0 +1,2 @@
+http://greek-lod.math.auth.gr/kalikratis/resource/municipalities/9249;Δήμος Ελαφονήσου;http://el.dbpedia.org/resource/Ελαφόνησος#Δήμος_Ελαφονήσου
+http://dbpedia.org/ontology/wikiPageRedirects;0;1

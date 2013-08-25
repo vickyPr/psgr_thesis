@@ -1,0 +1,7 @@
+http://greek-lod.math.auth.gr/kalikratis/resource/municipalities/9278;Δήμος Λέρου;http://el.dbpedia.org/resource/Δήμος_Λέρου
+http://dbpedia.org/ontology/wikiPageRedirects;1;0
+http://www.w3.org/2000/01/rdf-schema#label;1;0
+http://xmlns.com/foaf/0.1/page;1;0
+http://dbpedia.org/ontology/administrativeDistrict;0;1
+http://el.dbpedia.org/property/δήμος;0;1
+http://xmlns.com/foaf/0.1/primaryTopic;0;1

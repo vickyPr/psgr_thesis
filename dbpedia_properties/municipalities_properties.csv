@@ -1,0 +1,124 @@
+http://dbpedia.org/ontology/abstract
+http://dbpedia.org/ontology/areaTotal
+http://dbpedia.org/ontology/censusYear
+http://dbpedia.org/ontology/country
+http://dbpedia.org/ontology/elevation
+http://dbpedia.org/ontology/PopulatedPlace/areaTotal
+http://dbpedia.org/ontology/populationTotal
+http://dbpedia.org/ontology/postalCode
+http://dbpedia.org/ontology/province
+http://dbpedia.org/ontology/region
+http://dbpedia.org/ontology/thumbnail
+http://dbpedia.org/ontology/wikiPageDisambiguates
+http://dbpedia.org/ontology/wikiPageExternalLink
+http://dbpedia.org/ontology/wikiPageRedirects
+http://el.dbpedia.org/property/wikiPageUsesTemplate
+http://el.dbpedia.org/property/δ
+http://el.dbpedia.org/property/δήμαρχος
+http://el.dbpedia.org/property/δήμος
+http://el.dbpedia.org/property/διαμέρισμα
+http://el.dbpedia.org/property/δυτικά
+http://el.dbpedia.org/property/α
+http://el.dbpedia.org/property/ανατολικά
+http://el.dbpedia.org/property/αντιδήμαρχοι
+http://el.dbpedia.org/property/απογραφή
+http://el.dbpedia.org/property/αποκεντρωμένηΔιοίκηση
+http://el.dbpedia.org/property/αριθμός
+http://el.dbpedia.org/property/αριθμόςδημοτικώνδιαμερισμάτων
+http://el.dbpedia.org/property/λεζάνταΕικόνας
+http://el.dbpedia.org/property/ν
+http://el.dbpedia.org/property/νδ
+http://el.dbpedia.org/property/να
+http://el.dbpedia.org/property/νομός
+http://el.dbpedia.org/property/νοτιοδυτικά
+http://el.dbpedia.org/property/νοτιοανατολικά
+http://el.dbpedia.org/property/νότια
+http://el.dbpedia.org/property/β
+http://el.dbpedia.org/property/βα
+http://el.dbpedia.org/property/βορειοδυτικά
+http://el.dbpedia.org/property/βορειοανατολικά
+http://el.dbpedia.org/property/βόρεια
+http://el.dbpedia.org/property/γεωγραφικόδιαμέρισμα
+http://el.dbpedia.org/property/γεωγραφικόΔιαμέρισμα
+http://el.dbpedia.org/property/ιστορικήΠρωτεύουσα
+http://el.dbpedia.org/property/ιστοσελίδα
+http://el.dbpedia.org/property/ιστότοπος
+http://el.dbpedia.org/property/κέντρο
+http://el.dbpedia.org/property/έκταση
+http://el.dbpedia.org/property/έκταση(τ.χμ.)
+http://el.dbpedia.org/property/έκτασηΠόλης
+http://el.dbpedia.org/property/έκτασηΔήμου
+http://el.dbpedia.org/property/έμβλημα
+http://el.dbpedia.org/property/έμβλημαΠεριγραφή
+http://el.dbpedia.org/property/τίτλος
+http://el.dbpedia.org/property/ταχυδρομικόςΚωδικός
+http://el.dbpedia.org/property/ταχυδρομικόςκωδικός
+http://el.dbpedia.org/property/τηλεφωνικόςΚωδικός
+http://el.dbpedia.org/property/τηλεφωνικόςκωδικός
+http://el.dbpedia.org/property/τοπικέςΈδρες
+http://el.dbpedia.org/property/πληθυσμός
+http://el.dbpedia.org/property/πληθυσμόςΠόλης
+http://el.dbpedia.org/property/πληθυσμόςΔήμου
+http://el.dbpedia.org/property/περιφερειακήΕνότητα
+http://el.dbpedia.org/property/περιφέρεια
+http://el.dbpedia.org/property/πινακίδες
+http://el.dbpedia.org/property/πυκνότηταΠληθυσμούΔήμου
+http://el.dbpedia.org/property/πόλη
+http://el.dbpedia.org/property/πρωτεύουσα
+http://el.dbpedia.org/property/υψόμετρο
+http://el.dbpedia.org/property/χώρα
+http://el.dbpedia.org/resource/Πρότυπο:Πόλη_(Ελλάδα)
+http://el.dbpedia.org/resource/Πρότυπο:Πόλη_1
+http://el.dbpedia.org/resource/Πρότυπο:Αρχείο_ΕΡΤ
+http://el.dbpedia.org/resource/Πρότυπο:Γεωγραφική_θέση
+http://el.dbpedia.org/resource/Πρότυπο:Γύρω_περιοχές
+http://el.dbpedia.org/resource/Πρότυπο:Δήμος_(Ελλάδα)
+http://purl.org/dc/terms/subject
+http://www.georss.org/georss/point
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+http://www.w3.org/2000/01/rdf-schema#comment
+http://www.w3.org/2000/01/rdf-schema#label
+http://www.w3.org/2002/07/owl#sameAs
+http://www.w3.org/2003/01/geo/wgs84_pos#lat
+http://www.w3.org/2003/01/geo/wgs84_pos#long
+http://xmlns.com/foaf/0.1/depiction
+http://xmlns.com/foaf/0.1/homepage
+http://xmlns.com/foaf/0.1/name
+http://xmlns.com/foaf/0.1/page
+is http://dbpedia.org/ontology/administrativeDistrict of
+is http://dbpedia.org/ontology/birthPlace of
+is http://dbpedia.org/ontology/country of
+is http://dbpedia.org/ontology/deathPlace of
+is http://dbpedia.org/ontology/headquarter of
+is http://dbpedia.org/ontology/location of
+is http://dbpedia.org/ontology/place of
+is http://dbpedia.org/ontology/wikiPageDisambiguates of
+is http://dbpedia.org/ontology/wikiPageRedirects of
+is http://el.dbpedia.org/property/list of
+is http://el.dbpedia.org/property/δήμος of
+is http://el.dbpedia.org/property/διαίρεση of
+is http://el.dbpedia.org/property/δυτικά of
+is http://el.dbpedia.org/property/α of
+is http://el.dbpedia.org/property/ανατολικά of
+is http://el.dbpedia.org/property/αξίωμα of
+is http://el.dbpedia.org/property/ν of
+is http://el.dbpedia.org/property/να of
+is http://el.dbpedia.org/property/νοτιοδυτικά of
+is http://el.dbpedia.org/property/νότια of
+is http://el.dbpedia.org/property/β of
+is http://el.dbpedia.org/property/βδ of
+is http://el.dbpedia.org/property/βα of
+is http://el.dbpedia.org/property/βορειοδυτικά of
+is http://el.dbpedia.org/property/βορειοανατολικά of
+is http://el.dbpedia.org/property/βόρεια of
+is http://el.dbpedia.org/property/έδρα of
+is http://el.dbpedia.org/property/μεγαλύτεροςδήμος of
+is http://el.dbpedia.org/property/τοποθεσία of
+is http://el.dbpedia.org/property/τοποςΓεννησης of
+is http://el.dbpedia.org/property/τοποςΘανατου of
+is http://el.dbpedia.org/property/τόπος of
+is http://el.dbpedia.org/property/τόποςΓέννησης of
+is http://el.dbpedia.org/property/περιοχή of
+is http://el.dbpedia.org/property/πόληΓέννησης of
+is http://el.dbpedia.org/property/χώρα of
+is http://xmlns.com/foaf/0.1/primaryTopic of

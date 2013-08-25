@@ -1,0 +1,7 @@
+http://greek-lod.math.auth.gr/kalikratis/resource/regions/13;Περιφέρεια Κρήτης;http://el.dbpedia.org/resource/Περιφέρεια_Κρήτης
+http://dbpedia.org/ontology/wikiPageRedirects;1;0
+http://www.w3.org/2000/01/rdf-schema#label;1;0
+http://xmlns.com/foaf/0.1/page;1;0
+http://el.dbpedia.org/property/διαίρεση;0;1
+http://el.dbpedia.org/property/περιφέρεια;0;1
+http://xmlns.com/foaf/0.1/primaryTopic;0;1

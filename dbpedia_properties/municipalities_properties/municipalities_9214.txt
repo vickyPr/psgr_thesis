@@ -1,0 +1,2 @@
+http://greek-lod.math.auth.gr/kalikratis/resource/municipalities/9214;Δήμος Ύδρας;http://el.dbpedia.org/resource/Ύδρα#Δήμος_Ύδρας
+http://dbpedia.org/ontology/wikiPageRedirects;0;1

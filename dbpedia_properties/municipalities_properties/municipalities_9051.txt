@@ -1,0 +1,26 @@
+http://greek-lod.math.auth.gr/kalikratis/resource/municipalities/9051;Δήμος Εμμανουήλ Παππά;http://el.dbpedia.org/resource/Δήμος_Εμμανουήλ_Παππά
+http://dbpedia.org/ontology/abstract;1;0
+http://dbpedia.org/ontology/thumbnail;1;0
+http://el.dbpedia.org/property/wikiPageUsesTemplate;1;0
+http://el.dbpedia.org/property/έκταση(τ.χμ.);1;0
+http://el.dbpedia.org/property/απογραφή;1;0
+http://el.dbpedia.org/property/αποκεντρωμένηΔιοίκηση;1;0
+http://el.dbpedia.org/property/δήμος;1;0
+http://el.dbpedia.org/property/διαμέρισμα;1;0
+http://el.dbpedia.org/property/νομός;1;0
+http://el.dbpedia.org/property/περιφέρεια;1;0
+http://el.dbpedia.org/property/περιφερειακήΕνότητα;1;0
+http://el.dbpedia.org/property/πληθυσμός;1;0
+http://el.dbpedia.org/property/πρωτεύουσα;1;0
+http://el.dbpedia.org/resource/Πρότυπο:Δήμος_(Ελλάδα);1;0
+http://purl.org/dc/terms/subject;1;0
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type;1;0
+http://www.w3.org/2000/01/rdf-schema#comment;1;0
+http://www.w3.org/2000/01/rdf-schema#label;1;0
+http://www.w3.org/2002/07/owl#sameAs;1;0
+http://xmlns.com/foaf/0.1/depiction;1;0
+http://xmlns.com/foaf/0.1/page;1;0
+http://dbpedia.org/ontology/administrativeDistrict;0;1
+http://dbpedia.org/ontology/wikiPageRedirects;0;1
+http://el.dbpedia.org/property/δήμος;0;1
+http://xmlns.com/foaf/0.1/primaryTopic;0;1

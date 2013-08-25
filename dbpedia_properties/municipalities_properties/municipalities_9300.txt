@@ -1,0 +1,8 @@
+http://greek-lod.math.auth.gr/kalikratis/resource/municipalities/9300;Δήμος Σύρου - Ερμούπολης;http://el.dbpedia.org/resource/Δήμος_Σύρου_-_Ερμούπολης
+http://dbpedia.org/ontology/abstract;1;0
+http://purl.org/dc/terms/subject;1;0
+http://www.w3.org/2000/01/rdf-schema#comment;1;0
+http://www.w3.org/2000/01/rdf-schema#label;1;0
+http://www.w3.org/2002/07/owl#sameAs;1;0
+http://xmlns.com/foaf/0.1/page;1;0
+http://xmlns.com/foaf/0.1/primaryTopic;0;1
